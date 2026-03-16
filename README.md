@@ -1,6 +1,6 @@
 # Улучшения репозитория
 - Улучшен [ишьюс ревью](https://github.com/SENATOROVAI/intro/issues/5), [обновлены пункты 1.7, 3.2](https://github.com/SENATOROVAI/intro/issues/13), спасибо [rizespbya](https://github.com/rizespbya)
-- Улучшен [ишьюс ревью](https://github.com/SENATOROVAI/intro/issues/5), [обновлены пункты 5.5-5.6](https://github.com/SENATOROVAI/intro/issues/12), спасибо [lessWronger](https://github.com/lessWronger) 
+- Улучшен [ишьюс ревью](https://github.com/SENATOROVAI/intro/issues/5), [обновлены пункты 5.5-5.6](https://github.com/SENATOROVAI/intro/issues/12), спасибо [lessWronger](https://github.com/lessWronger)
 - Синхронизирован линтер pre-commit,  [пул реквест](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/pull/474), спасибо [rizespbya](https://github.com/rizespbya)
 - Улучшен [интро](https://github.com/SENATOROVAI/intro/blob/main/README.md),[обновлена структура](https://github.com/SENATOROVAI/intro/issues/10), спасибо [savemysoul382](https://github.com/savemysoul382)
 - Улучшен [ишьюс git](https://github.com/SENATOROVAI/intro-cs/issues/1), [обновлена структура](https://github.com/SENATOROVAI/intro-cs/issues/15), спасибо [savemysoul382](https://github.com/savemysoul382)
@@ -22,7 +22,7 @@
 
 - Улучшение курса [множественная регрессия](https://stepik.org/lesson/1792608/step/10?unit=1818297), внедрение Data Leakage, спасибо [smrnvdn](https://github.com/smrnvdn)
 - Улучшение курса [множественной регрессии](https://stepik.org/lesson/1792810/step/2?auth=login&unit=1818500), внедрение логической связи вывода матричной формы SSE, спасибо [rizespbya](https://github.com/rizespbya)
-- Улучшение курса, [множественной регрессии](https://stepik.org/lesson/1792848/step/2?unit=1818537), внедрён аудиопересказ, спасибо [Ekubbo](https://github.com/Ekubbo) 
+- Улучшение курса, [множественной регрессии](https://stepik.org/lesson/1792848/step/2?unit=1818537), внедрён аудиопересказ, спасибо [Ekubbo](https://github.com/Ekubbo)
 - Улучшение курса [SVD](https://stepik.org/lesson/1863889/step/1?unit=1889025), исправлена опечатка подстановки, спасибо [rizespbya](https://github.com/rizespbya)
 - Нет V^T в итоговой записи и у 2 айгенвелью 3 компонента без "-" [SVD](https://stepik.org/lesson/1832067/step/1?unit=1857101),[ишьюс](https://github.com/SENATOROVAI/svd-stepik/issues/1), спасибо [rizespbya](https://github.com/rizespbya)
 - Неправильно посчитан вектор u1 [SVD](https://stepik.org/lesson/1863989/step/2?unit=1889127),[ишьюс](https://github.com/SENATOROVAI/svd-stepik/issues/2), спасибо [Svetankova](https://github.com/Svetankova)
@@ -40,7 +40,7 @@
 
 # Улучшение организации
 - Обновление интро,внедрение раздела о нас, договора, средства коммуникации, спасибо [ViktorVinogradov89](https://github.com/ViktorVinogradov89)
-- Структурированна информация об организации, [ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/547), спасибо [svetlana-s88](https://github.com/svetlana-s88) 
+- Структурированна информация об организации, [ишьюс](https://github.com/SENATOROVAI/Data-Science-For-Beginners-from-scratch-SENATOROV/issues/547), спасибо [svetlana-s88](https://github.com/svetlana-s88)
 
 ---
 
@@ -72,10 +72,10 @@ You will learn:
 
 ## 🎯 Who Is This For?
 
-✅ Beginners in Data Science  
-✅ Python developers who want to learn ML  
-✅ Students learning Machine Learning  
-✅ Developers moving into AI / Data Analytics  
+✅ Beginners in Data Science
+✅ Python developers who want to learn ML
+✅ Students learning Machine Learning
+✅ Developers moving into AI / Data Analytics
 
 ---
 
@@ -157,15 +157,15 @@ You will build:
 
 ## 🔎 SEO Keywords (Optimized for Search)
 
-Data Science course  
-Data Science for beginners  
-Machine Learning Python  
-ML from scratch  
-Data Analysis Python  
-Statistics for Machine Learning  
-Python Machine Learning projects  
-Gradient Descent implementation  
-Linear Regression from scratch  
+Data Science course
+Data Science for beginners
+Machine Learning Python
+ML from scratch
+Data Analysis Python
+Statistics for Machine Learning
+Python Machine Learning projects
+Gradient Descent implementation
+Linear Regression from scratch
 
 ---
 
@@ -182,17 +182,17 @@ This repository is designed for:
 
 ## 📬 Contact
 
-Course page:  
-https://stepik.org/users/308359458/profile  
+Course page:
+https://stepik.org/users/308359458/profile
 
-YouTube:  
-https://youtube.com/SENATOROV  
+YouTube:
+https://youtube.com/SENATOROV
 
-Telegram School:  
-https://t.me/SENATOROVAI  
+Telegram School:
+https://t.me/SENATOROVAI
 
-Telegram Founder:  
-https://t.me/RuslanSenatorov  
+Telegram Founder:
+https://t.me/RuslanSenatorov
 
 ---
 
